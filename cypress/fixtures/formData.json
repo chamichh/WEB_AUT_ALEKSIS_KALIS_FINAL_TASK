@@ -1,0 +1,15 @@
+{
+    "name": "Emils",
+    "lastName": "Klavins",
+    "email": "emilsdaivids.klavins@va.lv",
+    "phone": "27311665",
+    "year": "1930",
+    "subject": "Economics",
+    "filePath": "cypress/files/bildite.png",
+    "picture": "bildite.png",
+    "address": "Zvejnieku iela 13",
+    "gender": "Other",
+    "dob": "28 February,1930",
+    "hobbies": "Music",
+    "stateAndCity": "NCR Delhi"
+}
